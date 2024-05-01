@@ -12,7 +12,7 @@
 }
 
 .background-image1 {
-  background-image: url("C:/Users/vinay/Downloads/Health/Health-Connect-main/client/src/Components/signupbg.jpg"); /* Replace 'background.jpg' with your actual image file path */
+  background-image: url("./signupbg.jpg"); /* Replace 'background.jpg' with your actual image file path */
   background-size: cover;
   background-position: center;
   min-height: 100vh; /* Ensures the background covers the entire viewport height */

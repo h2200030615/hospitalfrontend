@@ -1,7 +1,7 @@
 /* Login.css */
 
 .login-container {
-    background-image: url("C:/Users/vinay/Downloads/Health/Health-Connect-main/client/src/Components/loginbg.jpg");
+    background-image: url("./loginbg.jpg");
     background-size: cover;
     min-height: 100vh;
     display: flex;

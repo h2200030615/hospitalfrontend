@@ -6,7 +6,7 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("C:/Users/vinay/Downloads/Health/Health-Connect-main/client/src/Components/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg");
+  background-image: url("../Components/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg");
   /* Add the background image */
   background-size: cover; /* Set the background image to cover the entire viewport */
   background-position: center;
